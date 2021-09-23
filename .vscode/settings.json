@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "gunicorn",
+        "wsgi"
+    ],
+    "cSpell.ignoreWords": [
+        "dcsnod"
+    ]
+}
