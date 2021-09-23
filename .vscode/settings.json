@@ -4,6 +4,7 @@
         "wsgi"
     ],
     "cSpell.ignoreWords": [
-        "dcsnod"
+        "dcsnod",
+        "runserver"
     ]
 }
